@@ -46,8 +46,3 @@ The game ends when the player's car collides with an enemy car.
 The player's score increases each time an enemy car passes the bottom of the screen.
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements or report bugs.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-This project is licensed under the MIT License - see the LICENSE file for details.
